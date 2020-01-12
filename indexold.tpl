@@ -89,9 +89,10 @@
         <article id="1">
             <h2 class="major">简介</h2>
             <p>                    Milossr为用户提供高质量的网络优化服务</p>
-            <p>适合于:1.退威特,因私塔格莱姆等404社交软件用户</p>
-            <p>       2.油tube,twitch等404流媒体观众(观看netflix,HBO功能于下月锐意解锁）</p>
-            <p>       3.谷狗必应依赖的工作科研人员</p>
+            <p>       1.国内优化线路：高带宽低延迟，流畅1080p视频体验</p>
+            <p>       2.流媒体解锁：港澳台B站，Netflix，HBO Now等，私信客服提供Netflix共享账号</p>
+            <p>       3.最低11rmb一月，新用户所有节点免费试用</p>
+            <p>       加入Telegram客户群https://t.me/milo_ssr</p>
         </article>
         <!--
         简介修改示例:
